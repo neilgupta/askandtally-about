@@ -1,0 +1,58 @@
+body {
+	background-color: #fff;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+#container {
+	margin: 50px auto;
+	padding: 10px;
+	width: 800px;
+}
+
+#iphone {
+	float: left;
+	width: 300px;
+}
+
+#description {
+	float: right;
+	width: 500px;
+	color: #404040;
+}
+
+h1 {
+	text-align: center;
+	padding-bottom: 10px;
+	border-bottom: 3px solid #404040;
+	font-size: 50px;
+}
+
+#description p {
+	font-size: 21px;
+	padding: 10px;
+	line-height: 30px;
+}
+
+#description p#calltoaction {
+	text-align: center;
+	font-size: 30px;
+}
+
+.highlight {
+	font-weight: bold;
+	color: #d7423c;
+}
+
+#description p#tabule {
+	text-align: center;
+	font-size: 14px;
+}
+
+#description p#tabule a {
+	text-decoration: none;
+	color: #38b1d9;
+}
+
+#description p#tabule a:hover {
+	text-decoration: underline;
+}
